@@ -1,0 +1,14 @@
+body {
+    color: #217602;
+    background-color: #1179ad
+}
+
+.jumbotron {
+    background-image: url("../images/360_F_164491158_k8PIQXfiBM0g7iIBi2mSbAvB70B65HCf.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+form {style="font-family: inherit; font-size: 1rem;"}
+ul {style="font-family: inherit; font-size: 1rem;"}
+li {style="font-family: inherit; font-size: 1rem;"}
